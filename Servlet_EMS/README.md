@@ -11,7 +11,7 @@
 A basic web application developed using Java Servlets that allows users to add employee details through a web form and store them in a database.
 
 ## Features
-- Add Employee button
+- Add  Employee button
 - Employee registration form
 - Collect employee details
 - Store employee information in MySQL database
@@ -45,6 +45,7 @@ A basic web application developed using Java Servlets that allows users to add e
 
 ## Output
 - Employee details successfully stored in the database.
+   Output - 1 data inserted 
 - Confirmation message displayed in the browser.
 
 ## Learning Outcomes
